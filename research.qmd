@@ -2,4 +2,30 @@
 title: "Research"
 ---
 
-Research page — content added in Task 5.
+_Placeholder publications — replace each entry with your own. Formatting is
+plain Markdown, so just edit the text._
+
+## Peer-reviewed articles
+
+- Delouis, M., & Coauthor, A. (2025). _Placeholder article title goes here._
+  *Journal Name*, 00(0), 000–000.
+  [PDF](#) · [DOI](https://doi.org/PLACEHOLDER)
+
+- Delouis, M. (2024). _Another placeholder article title._
+  *Journal Name*, 00(0), 000–000.
+  [PDF](#) · [DOI](https://doi.org/PLACEHOLDER)
+
+## Working papers
+
+- Delouis, M. (2026). _Placeholder working-paper title._ Working paper.
+  [PDF](#)
+
+- Delouis, M., & Coauthor, B. (2025). _Another working-paper title._
+  Under review at *Journal Name*.
+  [PDF](#)
+
+## Work in progress
+
+- _Placeholder project title._ With Coauthor C. (data collection stage).
+
+- _Another in-progress project title._ Solo-authored.
