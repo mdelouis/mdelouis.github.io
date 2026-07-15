@@ -1,5 +1,43 @@
 ---
 title: "Maëlle Delouis"
+about:
+  template: trestles
+  image: assets/profile.jpg
+  image-shape: round
+  links:
+    - icon: envelope
+      text: Email
+      href: "mailto:maelle.delouis@uzh.ch"
+    - icon: mortarboard
+      text: Google Scholar
+      href: "https://scholar.google.com/citations?user=PLACEHOLDER"
+    - icon: person-badge
+      text: ORCID
+      href: "https://orcid.org/0000-0000-0000-0000"
+    - icon: github
+      text: GitHub
+      href: "https://github.com/PLACEHOLDER"
+    - icon: chat
+      text: Bluesky
+      href: "https://bsky.app/profile/PLACEHOLDER"
+    - icon: linkedin
+      text: LinkedIn
+      href: "https://www.linkedin.com/in/PLACEHOLDER"
 ---
 
-Home page — content added in Task 4.
+**PhD Student, Department of Sociology, University of Zurich**
+
+<!-- Placeholder bio — replace with your own. -->
+
+I am a PhD student in the Department of Sociology at the University of Zurich,
+with research interests at the intersection of sociology and political science.
+_This is placeholder text — replace it with a short description of your work._
+
+My research focuses on _[placeholder research theme]_. I use _[placeholder
+methods]_ to study _[placeholder questions]_. _Replace this paragraph with two
+or three sentences about your substantive interests._
+
+Before starting my PhD, I _[placeholder background — degrees, prior positions]_.
+_Replace with your own background._
+
+[Download CV](assets/delouis-cv.pdf){.btn .btn-outline-primary .btn-sm role="button"}
