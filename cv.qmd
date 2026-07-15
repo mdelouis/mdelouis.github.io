@@ -4,36 +4,84 @@ title: "Curriculum Vitae"
 
 [Download PDF](assets/delouis-cv.pdf){.btn .btn-primary role="button"}
 
-_Placeholder CV — replace each section with your own details._
-
 ## Education
 
-- **PhD in Sociology**, University of Zurich — _2024–present (expected 20XX)_
-- **MA in [Field]**, [University] — _20XX_
-- **BA in [Field]**, [University] — _20XX_
+**PhD in Social Science** (Department of Sociology), University of Zürich — *05/2025 – present*<br> 
 
-## Positions
+**Master in Politics and Policy Analysis**, Bocconi University, Milan — *09/2022 – 10/2024*<br> Double degree, in parallel with AgroParisTech. Thesis: *Marching Together? Military Conscription and Immigration Attitudes in Europe.*<br> Coursework: Methods for Policy Analysis, Welfare and Public Economics, Politics of Conflict, Citizenship and Migration.
 
-- **Doctoral Researcher**, Department of Sociology, University of Zurich — _2024–present_
-- **[Prior role]**, [Institution] — _20XX–20XX_
+**Master in Environmental Management and Engineering**, AgroParisTech, Paris-Saclay — *09/2020 – 11/2024*
+
+**Erasmus+ in Sustainable Development Law**, Università degli Studi di Milano — *02/2021 – 07/2021*
+
+**Bachelor of Engineering**, AgroParisTech, Paris-Saclay — *09/2019 – 08/2020*
+
+**Classes préparatoires BCPST** (Biology, Chemistry, Physics, Earth Sciences), Lycée Georges Clemenceau, Nantes — *09/2017 – 07/2019*
+
+## Research visits
+
+**Visiting PhD Researcher**, Stockholm University — *02/2026 – 03/2026*<br> Six weeks. Data access and collaboration on a comparative naturalisation project (Sweden and the Netherlands).
+
+## Research experience
+
+**Pre-Doctoral Fellow**, Bocconi University, Milan — *10/2024 – 04/2025*
+
+-   Research assistance on projects in political science using advanced statistical and computational methods.
+-   Developed data collection strategies leveraging large language models and the Facebook Marketing API for demographic and migration data.
+-   Built computational pipelines for integrating online and offline data sources.
+-   Assisted in designing experimental and observational studies.
+
+**Research Assistant** (with Ala Alrababah), Bocconi University, Milan — *04/2024 – 09/2024*
+
+-   Data management and analysis for research on comparative politics and international relations, focusing on immigration, refugees, and political violence.
+-   Contributed to developing research projects employing observational, experimental, and computational methods.
+
+**Research Trainee**, OECD Development Centre, Centre on Philanthropy, Paris — *02/2024 – 08/2024*
+
+-   Co-authored thematic research on philanthropy and gender equality.
+-   Designed and piloted the next edition of the OECD Private Philanthropy for Development global survey.
+-   Developed a machine learning model to classify philanthropic financing for climate adaptation.
+-   Drafted briefing notes, concept papers, and funding proposals.
+-   Streamlined the open data workflow of the Centre on Philanthropy.
+
+## Other professional experience
+
+**Engineer Intern**, Glimpact, Brussels — *11/2021 – 05/2022*
+
+-   Applied the Product Environmental Footprint (PEF) methodology; conducted Life-Cycle Assessment studies.
+
+**Intern, PNSE 4 Implementation and Air Quality**, Ministry of Ecological Transition (DGPR), Paris-La Défense — *06/2021 – 11/2021*
+
+-   Conducted research on environmental health policy and air quality management strategies.
+-   Assisted in regulatory review and coordination with municipal representatives.
 
 ## Publications
 
-_See the [Research](research.qmd) page for a full list._
+See [Research](research.qmd) for working papers and work in progress.
 
-- Delouis, M. (2025). _Placeholder article title._ *Journal Name*.
+**Policy publications**
 
-## Teaching
+-   OECD (2024). *How Philanthropic Foundations Support Gender Equality and Women's Empowerment.* OECD Development Policy Papers, No. 55. [DOI](https://doi.org/10.1787/3fbec947-en)
 
-- **[Course title]**, University of Zurich — _Semester, Year (role: TA/instructor)_
-- **[Course title]**, University of Zurich — _Semester, Year_
+## Conference presentations
 
-## Awards & grants
+-   **2026**  International Migration, Integration and Social Cohesion (IMISCOE) Annual Conference
+-   **2026**  European Political Science Society (EPSS) Annual Conference
+-   **2026**  Visions in Methodology (VIM) — *Poster Award* for *The Army of Unity? Conscription and the Making of Belonging in Reunified Germany*
+-   **2025**  European Political Science Association (EPSA) Annual Conference
 
-- **[Grant / fellowship name]**, [Funder] — _Year_
-- **[Award name]**, [Institution] — _Year_
+## Service and volunteering
 
-## Service & activities
+-   **Student Representative**, Junior Researchers — *08/2026 – present*
+-   **Fundraising Manager**, later **Advisory Board Member**, Northern Lights Aid (remote) — *01/2024 – present*
+-   **Volunteer**, Refugee Welcome International and Italy / Opera Cardinal Ferrari, Milan — *09/2023 – present*
+-   **Field Volunteer and Sensibility Trainer**, Northern Lights Aid / Mothers Without Borders, Kavala, Greece — *06/2023 – 07/2023*
+-   **Field Volunteer**, Women For The Earth, Abidjan, Côte d'Ivoire — *06/2022 – 08/2022*
 
-- Reviewer, *Journal Name*
-- [Conference / workshop organization placeholder]
+## Skills
+
+**Languages**: French (native), English (C1), Italian (B2), German (B2), Spanish (B2)
+
+**Programming**: R (Quarto, Shiny), Python, Stata, SQL, C, MATLAB
+
+**Methods**: Machine learning, text analysis, web scraping, data visualisation, causal inference

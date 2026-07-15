@@ -2,30 +2,32 @@
 title: "Research"
 ---
 
-_Placeholder publications — replace each entry with your own. Formatting is
-plain Markdown, so just edit the text._
+<!-- ## Peer-reviewed articles -->
 
-## Peer-reviewed articles
+<!-- - Delouis, M., & Coauthor, A. (2025). _Placeholder article title goes here._ -->
 
-- Delouis, M., & Coauthor, A. (2025). _Placeholder article title goes here._
-  *Journal Name*, 00(0), 000–000.
-  [PDF](#) · [DOI](https://doi.org/PLACEHOLDER)
+<!--   *Journal Name*, 00(0), 000–000. -->
 
-- Delouis, M. (2024). _Another placeholder article title._
-  *Journal Name*, 00(0), 000–000.
-  [PDF](#) · [DOI](https://doi.org/PLACEHOLDER)
+<!--   [PDF](#) · [DOI](https://doi.org/PLACEHOLDER) -->
+
+<!-- - Delouis, M. (2024). _Another placeholder article title._ -->
+
+<!--   *Journal Name*, 00(0), 000–000. -->
+
+<!--   [PDF](#) · [DOI](https://doi.org/PLACEHOLDER) -->
 
 ## Working papers
 
-- Delouis, M. (2026). _Placeholder working-paper title._ Working paper.
-  [PDF](#)
+-   Delouis-Jost, M. (2026). Marching Together? Military Conscription and Immigration Attitudes in Europe. Working paper. [Preprint](https://doi.org/10.21203/rs.3.rs-9242475/v1).
 
-- Delouis, M., & Coauthor, B. (2025). _Another working-paper title._
-  Under review at *Journal Name*.
-  [PDF](#)
+-   Alrababah, A., Delouis-Jost, M., Gauthier, G & Polak, A. (2025). Cycling through Elections:The Political Consequences of the Tour de France. Under review at *American Political Science Review*. [Preprint](https://doi.org/10.31235/osf.io/fj4vh_v1).
 
 ## Work in progress
 
-- _Placeholder project title._ With Coauthor C. (data collection stage).
+-   The Supply Side of Take-Up: Administrative Capacity and the Production of Citizenship in Germany. With Jorah Diethold, Niklas Harder, and Giuseppe Pietrantuono. (Manuscript under review at *American Journal of Political Science*.)
 
-- _Another in-progress project title._ Solo-authored.
+-   Army of Unity? Conscription and the Making of Belonging in Reunified Germany. Solo-authored.
+
+-   The Costs of Belonging: Military Service and Citizenship Uptake in Sweden and the Netherlands. With Giuseppe Pietrantuono.
+
+-   Anti-Muslim Bias and Naturalization In Switzerland. With Mattia Cecchi.

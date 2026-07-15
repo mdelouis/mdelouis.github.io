@@ -7,37 +7,27 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: "mailto:maelle.delouis@uzh.ch"
+      href: "mailto:delouis-jost@soziologie.uzh.ch"
     - icon: mortarboard
       text: Google Scholar
-      href: "https://scholar.google.com/citations?user=PLACEHOLDER"
+      href: "https://scholar.google.com/citations?hl=en&user=arPECroAAAAJ&view_op=list_works&sortby=pubdate"
     - icon: person-badge
       text: ORCID
-      href: "https://orcid.org/0000-0000-0000-0000"
-    - icon: github
-      text: GitHub
-      href: "https://github.com/PLACEHOLDER"
+      href: "https://orcid.org/0009-0009-9388-176X"
     - icon: chat
       text: Bluesky
-      href: "https://bsky.app/profile/PLACEHOLDER"
+      href: "https://bsky.app/profile/maelledelouis.bsky.social"
     - icon: linkedin
       text: LinkedIn
-      href: "https://www.linkedin.com/in/PLACEHOLDER"
+      href: "https://it.linkedin.com/in/maëlle-delouis-jost-9a4271197"
 ---
 
 **PhD Student, Department of Sociology, University of Zurich**
 
-<!-- Placeholder bio — replace with your own. -->
+I am a PhD student in the Department of Sociology at the University of Zurich, with research interests at the intersection of sociology and political science.
 
-I am a PhD student in the Department of Sociology at the University of Zurich,
-with research interests at the intersection of sociology and political science.
-_This is placeholder text — replace it with a short description of your work._
+My work examines how state institutions shape national identity and the decision to naturalise. I study conscription and national belonging in reunified Germany, the effect of abolishing conscription on naturalisation among second-generation immigrants in the Netherlands and Sweden, and naturalisation as a response to Switzerland's anti-Muslim referenda.
 
-My research focuses on _[placeholder research theme]_. I use _[placeholder
-methods]_ to study _[placeholder questions]_. _Replace this paragraph with two
-or three sentences about your substantive interests._
-
-Before starting my PhD, I _[placeholder background — degrees, prior positions]_.
-_Replace with your own background._
+In parallel projects, I examine how administrative capacity shapes naturalisation take-up in German districts, the long-run effects of conscription on immigration attitudes across eleven European countries, and the electoral consequences of the Tour de France in French municipalities. Methodologically, I rely on causal inference designs (regression discontinuity, difference-in-differences, and counterfactual estimators) applied to population registers, panel surveys, and electoral data.
 
 [Download CV](assets/delouis-cv.pdf){.btn .btn-outline-primary .btn-sm role="button"}
