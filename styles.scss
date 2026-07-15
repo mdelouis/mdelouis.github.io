@@ -46,3 +46,13 @@ a {
   font-size: 1.35rem;
   color: $accent;
 }
+
+// Embedded CV preview
+.cv-preview {
+  margin-top: 1.5rem;
+
+  object {
+    border: 1px solid #e3e7ec;
+    border-radius: 3px;
+  }
+}
