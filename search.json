@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download PDF\nPlaceholder CV — replace each section with your own details."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\nPhD in Sociology, University of Zurich — 2024–present (expected 20XX)\nMA in [Field], [University] — 20XX\nBA in [Field], [University] — 20XX"
+  },
+  {
+    "objectID": "cv.html#positions",
+    "href": "cv.html#positions",
+    "title": "Curriculum Vitae",
+    "section": "Positions",
+    "text": "Positions\n\nDoctoral Researcher, Department of Sociology, University of Zurich — 2024–present\n[Prior role], [Institution] — 20XX–20XX"
+  },
+  {
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "Curriculum Vitae",
+    "section": "Publications",
+    "text": "Publications\nSee the Research page for a full list.\n\nDelouis, M. (2025). Placeholder article title. Journal Name."
+  },
+  {
+    "objectID": "cv.html#teaching",
+    "href": "cv.html#teaching",
+    "title": "Curriculum Vitae",
+    "section": "Teaching",
+    "text": "Teaching\n\n[Course title], University of Zurich — Semester, Year (role: TA/instructor)\n[Course title], University of Zurich — Semester, Year"
+  },
+  {
+    "objectID": "cv.html#awards-grants",
+    "href": "cv.html#awards-grants",
+    "title": "Curriculum Vitae",
+    "section": "Awards & grants",
+    "text": "Awards & grants\n\n[Grant / fellowship name], [Funder] — Year\n[Award name], [Institution] — Year"
+  },
+  {
+    "objectID": "cv.html#service-activities",
+    "href": "cv.html#service-activities",
+    "title": "Curriculum Vitae",
+    "section": "Service & activities",
+    "text": "Service & activities\n\nReviewer, Journal Name\n[Conference / workshop organization placeholder]"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Maëlle Delouis",
+    "section": "",
+    "text": "PhD Student, Department of Sociology, University of Zurich\n\nI am a PhD student in the Department of Sociology at the University of Zurich, with research interests at the intersection of sociology and political science. This is placeholder text — replace it with a short description of your work.\nMy research focuses on [placeholder research theme]. I use [placeholder methods] to study [placeholder questions]. Replace this paragraph with two or three sentences about your substantive interests.\nBefore starting my PhD, I [placeholder background — degrees, prior positions]. Replace with your own background.\nDownload CV"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Placeholder publications — replace each entry with your own. Formatting is plain Markdown, so just edit the text."
+  },
+  {
+    "objectID": "research.html#peer-reviewed-articles",
+    "href": "research.html#peer-reviewed-articles",
+    "title": "Research",
+    "section": "Peer-reviewed articles",
+    "text": "Peer-reviewed articles\n\nDelouis, M., & Coauthor, A. (2025). Placeholder article title goes here. Journal Name, 00(0), 000–000. PDF · DOI\nDelouis, M. (2024). Another placeholder article title. Journal Name, 00(0), 000–000. PDF · DOI"
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "Working papers",
+    "text": "Working papers\n\nDelouis, M. (2026). Placeholder working-paper title. Working paper. PDF\nDelouis, M., & Coauthor, B. (2025). Another working-paper title. Under review at Journal Name. PDF"
+  },
+  {
+    "objectID": "research.html#work-in-progress",
+    "href": "research.html#work-in-progress",
+    "title": "Research",
+    "section": "Work in progress",
+    "text": "Work in progress\n\nPlaceholder project title. With Coauthor C. (data collection stage).\nAnother in-progress project title. Solo-authored."
+  }
+]
