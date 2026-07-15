@@ -1,2 +1,48 @@
 /*-- scss:defaults --*/
-// styling added in Task 3
+
+// === Single knob: change the whole-site accent here ===
+$accent: #2c5f8a;   // muted slate/UZH-ish blue
+
+// Fonts (pulled from Google Fonts by Quarto)
+$font-family-sans-serif: "Inter", "Helvetica Neue", Arial, sans-serif;
+$headings-font-family: "Lora", Georgia, "Times New Roman", serif;
+
+$primary: $accent;
+$link-color: $accent;
+$body-color: #1f2328;
+$body-bg: #ffffff;
+
+/*-- scss:rules --*/
+
+// Import fonts
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Lora:wght@500;600;700&display=swap');
+
+body {
+  font-size: 1.05rem;
+  line-height: 1.65;
+}
+
+h1, h2, h3, h4 {
+  letter-spacing: -0.01em;
+}
+
+// Generous whitespace, understated links, minimal chrome
+main {
+  max-width: 52rem;
+}
+
+a {
+  text-decoration: none;
+  &:hover { text-decoration: underline; }
+}
+
+.navbar {
+  border-bottom: 1px solid #eceff3;
+}
+
+// Social/link icon row on the home page
+.link-row a {
+  margin-right: 0.9rem;
+  font-size: 1.35rem;
+  color: $accent;
+}

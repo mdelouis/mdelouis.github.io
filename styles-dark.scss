@@ -1,2 +1,37 @@
 /*-- scss:defaults --*/
-// styling added in Task 3
+
+$accent: #7fb0d9;   // lighter accent for dark bg
+
+$font-family-sans-serif: "Inter", "Helvetica Neue", Arial, sans-serif;
+$headings-font-family: "Lora", Georgia, "Times New Roman", serif;
+
+$primary: $accent;
+$link-color: $accent;
+$body-color: #d7dde3;
+$body-bg: #16191d;
+
+/*-- scss:rules --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Lora:wght@500;600;700&display=swap');
+
+body {
+  font-size: 1.05rem;
+  line-height: 1.65;
+}
+
+main { max-width: 52rem; }
+
+a {
+  text-decoration: none;
+  &:hover { text-decoration: underline; }
+}
+
+.navbar {
+  border-bottom: 1px solid #23282e;
+}
+
+.link-row a {
+  margin-right: 0.9rem;
+  font-size: 1.35rem;
+  color: $accent;
+}
