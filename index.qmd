@@ -1,5 +1,5 @@
 ---
-title: "Maëlle Delouis"
+title: "Maelle Delouis-Jost"
 about:
   template: trestles
   image: assets/profile.png
@@ -22,12 +22,12 @@ about:
       href: "https://it.linkedin.com/in/maëlle-delouis-jost-9a4271197"
 ---
 
-**PhD Student, Department of Sociology, University of Zurich**
+**PhD Candidate, Department of Sociology, University of Zurich**
 
-I am a PhD student in the Department of Sociology at the University of Zurich, with research interests at the intersection of sociology and political science.
+I am a PhD candidate in the Department of Sociology at the University of Zurich, with research interests at the intersection of sociology and political science.
 
-My work examines how state institutions shape national identity and the decision to naturalise. I study conscription and national belonging in reunified Germany, the effect of abolishing conscription on naturalisation among second-generation immigrants in the Netherlands and Sweden, and naturalisation as a response to Switzerland's anti-Muslim referenda.
+My work examines how state institutions shape national identity and the decision to naturalize. I study conscription and national belonging in reunified Germany, the effect of abolishing conscription on naturalization among second-generation immigrants in the Netherlands and Sweden, and naturalization as a response to Switzerland's anti-Muslim referenda.
 
-In parallel projects, I examine how administrative capacity shapes naturalisation take-up in German districts, the long-run effects of conscription on immigration attitudes across eleven European countries, and the electoral consequences of the Tour de France in French municipalities. Methodologically, I rely on causal inference designs (regression discontinuity, difference-in-differences, and counterfactual estimators) applied to population registers, panel surveys, and electoral data.
+In parallel projects, I examine how administrative capacity shapes naturalization take-up in German districts, the long-run effects of conscription on immigration attitudes across eleven European countries, and the electoral consequences of the Tour de France in French municipalities. Methodologically, I rely on causal inference designs (regression discontinuity, difference-in-differences, and counterfactual estimators) applied to population registers, panel surveys, and electoral data.
 
 [Download CV](assets/delouis-cv.pdf){.btn .btn-outline-primary .btn-sm role="button"}
