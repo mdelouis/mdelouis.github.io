@@ -4,83 +4,90 @@
     "href": "cv.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "Download PDF\nPlaceholder CV — replace each section with your own details."
+    "text": "Download PDF"
   },
   {
     "objectID": "cv.html#education",
     "href": "cv.html#education",
     "title": "Curriculum Vitae",
     "section": "Education",
-    "text": "Education\n\nPhD in Sociology, University of Zurich — 2024–present (expected 20XX)\nMA in [Field], [University] — 20XX\nBA in [Field], [University] — 20XX"
+    "text": "Education\nPhD in Social Science (Department of Sociology), University of Zürich — 05/2025 – present\nMaster in Politics and Policy Analysis, Bocconi University, Milan — 09/2022 – 10/2024 Double degree, in parallel with AgroParisTech. Thesis: Marching Together? Military Conscription and Immigration Attitudes in Europe. Coursework: Methods for Policy Analysis, Welfare and Public Economics, Politics of Conflict, Citizenship and Migration.\nMaster in Environmental Management and Engineering, AgroParisTech, Paris-Saclay — 09/2020 – 11/2024\nErasmus+ in Sustainable Development Law, Università degli Studi di Milano — 02/2021 – 07/2021\nBachelor of Engineering, AgroParisTech, Paris-Saclay — 09/2019 – 08/2020\nClasses préparatoires BCPST (Biology, Chemistry, Physics, Earth Sciences), Lycée Georges Clemenceau, Nantes — 09/2017 – 07/2019"
   },
   {
-    "objectID": "cv.html#positions",
-    "href": "cv.html#positions",
+    "objectID": "cv.html#research-visits",
+    "href": "cv.html#research-visits",
     "title": "Curriculum Vitae",
-    "section": "Positions",
-    "text": "Positions\n\nDoctoral Researcher, Department of Sociology, University of Zurich — 2024–present\n[Prior role], [Institution] — 20XX–20XX"
+    "section": "Research visits",
+    "text": "Research visits\nVisiting PhD Researcher, Stockholm University — 02/2026 – 03/2026 Six weeks. Data access and collaboration on a comparative naturalisation project (Sweden and the Netherlands)."
+  },
+  {
+    "objectID": "cv.html#research-experience",
+    "href": "cv.html#research-experience",
+    "title": "Curriculum Vitae",
+    "section": "Research experience",
+    "text": "Research experience\nPre-Doctoral Fellow, Bocconi University, Milan — 10/2024 – 04/2025\n\nResearch assistance on projects in political science using advanced statistical and computational methods.\nDeveloped data collection strategies leveraging large language models and the Facebook Marketing API for demographic and migration data.\nBuilt computational pipelines for integrating online and offline data sources.\nAssisted in designing experimental and observational studies.\n\nResearch Assistant (with Ala Alrababah), Bocconi University, Milan — 04/2024 – 09/2024\n\nData management and analysis for research on comparative politics and international relations, focusing on immigration, refugees, and political violence.\nContributed to developing research projects employing observational, experimental, and computational methods.\n\nResearch Trainee, OECD Development Centre, Centre on Philanthropy, Paris — 02/2024 – 08/2024\n\nCo-authored thematic research on philanthropy and gender equality.\nDesigned and piloted the next edition of the OECD Private Philanthropy for Development global survey.\nDeveloped a machine learning model to classify philanthropic financing for climate adaptation.\nDrafted briefing notes, concept papers, and funding proposals.\nStreamlined the open data workflow of the Centre on Philanthropy."
+  },
+  {
+    "objectID": "cv.html#other-professional-experience",
+    "href": "cv.html#other-professional-experience",
+    "title": "Curriculum Vitae",
+    "section": "Other professional experience",
+    "text": "Other professional experience\nEngineer Intern, Glimpact, Brussels — 11/2021 – 05/2022\n\nApplied the Product Environmental Footprint (PEF) methodology; conducted Life-Cycle Assessment studies.\n\nIntern, PNSE 4 Implementation and Air Quality, Ministry of Ecological Transition (DGPR), Paris-La Défense — 06/2021 – 11/2021\n\nConducted research on environmental health policy and air quality management strategies.\nAssisted in regulatory review and coordination with municipal representatives."
   },
   {
     "objectID": "cv.html#publications",
     "href": "cv.html#publications",
     "title": "Curriculum Vitae",
     "section": "Publications",
-    "text": "Publications\nSee the Research page for a full list.\n\nDelouis, M. (2025). Placeholder article title. Journal Name."
+    "text": "Publications\nSee Research for working papers and work in progress.\nPolicy publications\n\nOECD (2024). How Philanthropic Foundations Support Gender Equality and Women’s Empowerment. OECD Development Policy Papers, No. 55. DOI"
   },
   {
-    "objectID": "cv.html#teaching",
-    "href": "cv.html#teaching",
+    "objectID": "cv.html#conference-presentations",
+    "href": "cv.html#conference-presentations",
     "title": "Curriculum Vitae",
-    "section": "Teaching",
-    "text": "Teaching\n\n[Course title], University of Zurich — Semester, Year (role: TA/instructor)\n[Course title], University of Zurich — Semester, Year"
+    "section": "Conference presentations",
+    "text": "Conference presentations\n\n2026 International Migration, Integration and Social Cohesion (IMISCOE) Annual Conference\n2026 European Political Science Society (EPSS) Annual Conference\n2026 Visions in Methodology (VIM) — Poster Award for The Army of Unity? Conscription and the Making of Belonging in Reunified Germany\n2025 European Political Science Association (EPSA) Annual Conference"
   },
   {
-    "objectID": "cv.html#awards-grants",
-    "href": "cv.html#awards-grants",
+    "objectID": "cv.html#service-and-volunteering",
+    "href": "cv.html#service-and-volunteering",
     "title": "Curriculum Vitae",
-    "section": "Awards & grants",
-    "text": "Awards & grants\n\n[Grant / fellowship name], [Funder] — Year\n[Award name], [Institution] — Year"
+    "section": "Service and volunteering",
+    "text": "Service and volunteering\n\nStudent Representative, Junior Researchers — 08/2026 – present\nFundraising Manager, later Advisory Board Member, Northern Lights Aid (remote) — 01/2024 – present\nVolunteer, Refugee Welcome International and Italy / Opera Cardinal Ferrari, Milan — 09/2023 – present\nField Volunteer and Sensibility Trainer, Northern Lights Aid / Mothers Without Borders, Kavala, Greece — 06/2023 – 07/2023\nField Volunteer, Women For The Earth, Abidjan, Côte d’Ivoire — 06/2022 – 08/2022"
   },
   {
-    "objectID": "cv.html#service-activities",
-    "href": "cv.html#service-activities",
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
     "title": "Curriculum Vitae",
-    "section": "Service & activities",
-    "text": "Service & activities\n\nReviewer, Journal Name\n[Conference / workshop organization placeholder]"
+    "section": "Skills",
+    "text": "Skills\nLanguages: French (native), English (C1), Italian (B2), German (B2), Spanish (B2)\nProgramming: R (Quarto, Shiny), Python, Stata, SQL, C, MATLAB\nMethods: Machine learning, text analysis, web scraping, data visualisation, causal inference"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Maëlle Delouis",
     "section": "",
-    "text": "PhD Student, Department of Sociology, University of Zurich\n\nI am a PhD student in the Department of Sociology at the University of Zurich, with research interests at the intersection of sociology and political science. This is placeholder text — replace it with a short description of your work.\nMy research focuses on [placeholder research theme]. I use [placeholder methods] to study [placeholder questions]. Replace this paragraph with two or three sentences about your substantive interests.\nBefore starting my PhD, I [placeholder background — degrees, prior positions]. Replace with your own background.\nDownload CV"
+    "text": "PhD Student, Department of Sociology, University of Zurich\nI am a PhD student in the Department of Sociology at the University of Zurich, with research interests at the intersection of sociology and political science.\nMy work examines how state institutions shape national identity and the decision to naturalise. I study conscription and national belonging in reunified Germany, the effect of abolishing conscription on naturalisation among second-generation immigrants in the Netherlands and Sweden, and naturalisation as a response to Switzerland’s anti-Muslim referenda.\nIn parallel projects, I examine how administrative capacity shapes naturalisation take-up in German districts, the long-run effects of conscription on immigration attitudes across eleven European countries, and the electoral consequences of the Tour de France in French municipalities. Methodologically, I rely on causal inference designs (regression discontinuity, difference-in-differences, and counterfactual estimators) applied to population registers, panel surveys, and electoral data.\nDownload CV"
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Placeholder publications — replace each entry with your own. Formatting is plain Markdown, so just edit the text."
-  },
-  {
-    "objectID": "research.html#peer-reviewed-articles",
-    "href": "research.html#peer-reviewed-articles",
-    "title": "Research",
-    "section": "Peer-reviewed articles",
-    "text": "Peer-reviewed articles\n\nDelouis, M., & Coauthor, A. (2025). Placeholder article title goes here. Journal Name, 00(0), 000–000. PDF · DOI\nDelouis, M. (2024). Another placeholder article title. Journal Name, 00(0), 000–000. PDF · DOI"
+    "text": "Delouis-Jost, M. (2026). Marching Together? Military Conscription and Immigration Attitudes in Europe. Working paper. Preprint.\nAlrababah, A., Delouis-Jost, M., Gauthier, G & Polak, A. (2025). Cycling through Elections:The Political Consequences of the Tour de France. Under review at American Political Science Review. Preprint."
   },
   {
     "objectID": "research.html#working-papers",
     "href": "research.html#working-papers",
     "title": "Research",
-    "section": "Working papers",
-    "text": "Working papers\n\nDelouis, M. (2026). Placeholder working-paper title. Working paper. PDF\nDelouis, M., & Coauthor, B. (2025). Another working-paper title. Under review at Journal Name. PDF"
+    "section": "",
+    "text": "Delouis-Jost, M. (2026). Marching Together? Military Conscription and Immigration Attitudes in Europe. Working paper. Preprint.\nAlrababah, A., Delouis-Jost, M., Gauthier, G & Polak, A. (2025). Cycling through Elections:The Political Consequences of the Tour de France. Under review at American Political Science Review. Preprint."
   },
   {
     "objectID": "research.html#work-in-progress",
     "href": "research.html#work-in-progress",
     "title": "Research",
     "section": "Work in progress",
-    "text": "Work in progress\n\nPlaceholder project title. With Coauthor C. (data collection stage).\nAnother in-progress project title. Solo-authored."
+    "text": "Work in progress\n\nThe Supply Side of Take-Up: Administrative Capacity and the Production of Citizenship in Germany. With Jorah Diethold, Niklas Harder, and Giuseppe Pietrantuono. (Manuscript under review at American Journal of Political Science.)\nArmy of Unity? Conscription and the Making of Belonging in Reunified Germany. Solo-authored.\nThe Costs of Belonging: Military Service and Citizenship Uptake in Sweden and the Netherlands. With Giuseppe Pietrantuono.\nAnti-Muslim Bias and Naturalization In Switzerland. With Mattia Cecchi."
   }
 ]
