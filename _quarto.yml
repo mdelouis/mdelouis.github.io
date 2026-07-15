@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: _site
+  render:
+    - index.qmd
+    - research.qmd
+    - cv.qmd
 
 website:
   title: "Maëlle Delouis"
