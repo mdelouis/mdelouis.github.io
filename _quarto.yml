@@ -7,7 +7,11 @@ project:
     - cv.qmd
 
 website:
-  title: "Maëlle Delouis"
+  title: "Maelle Delouis-Jost"
+  site-url: https://mdelouis.github.io
+  description: "Maelle Delouis-Jost is a PhD candidate in the Department of Sociology at the University of Zurich, studying conscription, citizenship, naturalization, and national belonging in Europe."
+  open-graph: true
+  twitter-card: true
   navbar:
     left:
       - href: index.qmd
@@ -18,10 +22,10 @@ website:
         text: CV
     tools:
       - icon: envelope
-        href: "mailto:maelle.delouis@uzh.ch"
+        href: "mailto:delouis-jost@soziologie.uzh.ch"
         text: Email
   page-footer:
-    center: "© 2026 Maëlle Delouis · Built with [Quarto](https://quarto.org)"
+    center: "© 2026 Maelle Delouis-Jost · Built with [Quarto](https://quarto.org)"
 
 format:
   html:

@@ -1,5 +1,6 @@
 ---
 title: "Maelle Delouis-Jost"
+description: "PhD candidate in the Department of Sociology at the University of Zurich, studying conscription, citizenship, naturalization, and national belonging in Europe."
 about:
   template: trestles
   image: assets/profile.png
