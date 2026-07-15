@@ -57,3 +57,12 @@ a {
     border-radius: 3px;
   }
 }
+
+// litera's base theme sets paragraphs in Georgia serif. Quarto injects this
+// file BEFORE the theme, so we win on specificity (body p = 0,0,2) not order.
+body p,
+body .about-entity,
+body .about-contents,
+body li {
+  font-family: $font-family-sans-serif;
+}
