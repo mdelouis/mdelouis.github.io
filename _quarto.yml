@@ -29,4 +29,3 @@ format:
       light: [litera, styles.scss]
       dark: [litera, styles-dark.scss]
     toc: false
-    css: []

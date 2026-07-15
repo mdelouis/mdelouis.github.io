@@ -2,7 +2,7 @@
 title: "Maëlle Delouis"
 about:
   template: trestles
-  image: assets/profile.jpg
+  image: assets/profile.png
   image-shape: round
   links:
     - icon: envelope
