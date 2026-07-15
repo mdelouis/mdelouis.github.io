@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Maëlle Delouis"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: cv.qmd
+        text: CV
+    tools:
+      - icon: envelope
+        href: "mailto:maelle.delouis@uzh.ch"
+        text: Email
+  page-footer:
+    center: "© 2026 Maëlle Delouis · Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      light: [litera, styles.scss]
+      dark: [litera, styles-dark.scss]
+    toc: false
+    css: []

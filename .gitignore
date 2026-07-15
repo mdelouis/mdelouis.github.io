@@ -1,0 +1,8 @@
+# Quarto
+/_site/
+/.quarto/
+*_files/
+
+# OS
+.DS_Store
+Thumbs.db
