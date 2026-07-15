@@ -1,5 +1,39 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
 ---
 
-CV page — content added in Task 6.
+[Download PDF](assets/delouis-cv.pdf){.btn .btn-primary role="button"}
+
+_Placeholder CV — replace each section with your own details._
+
+## Education
+
+- **PhD in Sociology**, University of Zurich — _2024–present (expected 20XX)_
+- **MA in [Field]**, [University] — _20XX_
+- **BA in [Field]**, [University] — _20XX_
+
+## Positions
+
+- **Doctoral Researcher**, Department of Sociology, University of Zurich — _2024–present_
+- **[Prior role]**, [Institution] — _20XX–20XX_
+
+## Publications
+
+_See the [Research](research.qmd) page for a full list._
+
+- Delouis, M. (2025). _Placeholder article title._ *Journal Name*.
+
+## Teaching
+
+- **[Course title]**, University of Zurich — _Semester, Year (role: TA/instructor)_
+- **[Course title]**, University of Zurich — _Semester, Year_
+
+## Awards & grants
+
+- **[Grant / fellowship name]**, [Funder] — _Year_
+- **[Award name]**, [Institution] — _Year_
+
+## Service & activities
+
+- Reviewer, *Journal Name*
+- [Conference / workshop organization placeholder]
