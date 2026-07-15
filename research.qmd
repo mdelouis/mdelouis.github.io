@@ -2,32 +2,31 @@
 title: "Research"
 ---
 
-<!-- ## Peer-reviewed articles -->
+<!-- Template for when work is published — same style as the entries below: -->
+<!-- ## Publications -->
+<!-- -   **[Title of the article](https://doi.org/...)**\ -->
+<!--     *Journal Name.* 2027.\ -->
+<!--     With Coauthor One and Coauthor Two. -->
 
-<!-- - Delouis, M., & Coauthor, A. (2025). _Placeholder article title goes here._ -->
+## Under Review and Working Papers
 
-<!--   *Journal Name*, 00(0), 000–000. -->
+-   **[Marching Together? Military Conscription and Immigration Attitudes in Europe](https://doi.org/10.21203/rs.3.rs-9242475/v1)**\
+    Working paper. 2026.
 
-<!--   [PDF](#) · [DOI](https://doi.org/PLACEHOLDER) -->
+-   **[Cycling through Elections: The Political Consequences of the Tour de France](https://doi.org/10.31235/osf.io/fj4vh_v1)**\
+    Under review at *American Political Science Review.* 2025.\
+    With Ala Alrababah, Germain Gauthier, and Adam Polak.
 
-<!-- - Delouis, M. (2024). _Another placeholder article title._ -->
+-   **The Supply Side of Take-Up: Administrative Capacity and the Production of Citizenship in Germany**\
+    Under review at *American Journal of Political Science.*\
+    With Jorah Diethold, Niklas Harder, and Giuseppe Pietrantuono.
 
-<!--   *Journal Name*, 00(0), 000–000. -->
+## Work in Progress
 
-<!--   [PDF](#) · [DOI](https://doi.org/PLACEHOLDER) -->
+-   **The Army of Unity? Conscription and the Making of Belonging in Reunified Germany**
 
-## Working papers
+-   **The Costs of Belonging: Military Service and Citizenship Uptake in Sweden and the Netherlands**\
+    With Giuseppe Pietrantuono.
 
--   **Delouis-Jost, M.** (2026). Marching Together? Military Conscription and Immigration Attitudes in Europe. Working paper. [Preprint](https://doi.org/10.21203/rs.3.rs-9242475/v1).
-
--   **Alrababah, A., Delouis-Jost, M., Gauthier, G & Polak, A.** (2025). Cycling through Elections:The Political Consequences of the Tour de France. Under review at *American Political Science Review*. [Preprint](https://doi.org/10.31235/osf.io/fj4vh_v1).
-
-## Work in progress
-
--   The Supply Side of Take-Up: Administrative Capacity and the Production of Citizenship in Germany. With **Jorah Diethold, Niklas Harder, and Giuseppe Pietrantuono**. Under review at *American Journal of Political Science*.
-
--   Army of Unity? Conscription and the Making of Belonging in Reunified Germany. **Solo**-authored.
-
--   The Costs of Belonging: Military Service and Citizenship Uptake in Sweden and the Netherlands. With **Giuseppe Pietrantuono**.
-
--   Anti-Muslim Bias and Naturalization In Switzerland. With **Mattia Cecchi**.
+-   **Anti-Muslim Bias and Naturalization in Switzerland**\
+    With Mattia Cecchi.
